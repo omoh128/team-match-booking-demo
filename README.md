@@ -1,6 +1,6 @@
 # 🏆 Team Match Booking Demo (WordPress Plugin)
 
-This is a simplified WordPress plugin demo of a frontend football team booking and match challenge system, inspired by the Footy Vision spec.
+This is a simplified WordPress plugin demo of a frontend football team booking and match challenge system, inspired by the SportsPress spec.
 
 ## ✨ Features
 
@@ -38,6 +38,4 @@ This is a simplified WordPress plugin demo of a frontend football team booking a
 - `acf-fields.json` – Exported ACF field group
 
 
-
-r
 
