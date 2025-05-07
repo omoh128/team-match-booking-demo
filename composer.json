@@ -1,0 +1,27 @@
+{
+    "name": "omomohagiogu/team-match-booking-demo",
+    "description": "A frontend-based team match scheduling system for football teams using WordPress.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+      {
+        "name": "Omomoh Agiogu",
+        "email": "omoh128@gmail.com",
+        "homepage": "https://omomohwebsite.com"
+      }
+    ],
+    "require": {
+      "php": ">=7.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "Inc\\": "inc/"
+      }
+    },
+    "extra": {
+      "wordpress-plugin": {
+        "main-file": "team-match-booking-demo.php"
+      }
+    }
+  }
+  

@@ -1,0 +1,10 @@
+# Ignore Mac system files
+.DS_Store
+.qodo
+
+
+
+# Composer
+/vendor/
+/composer.lock
+
